@@ -14,7 +14,7 @@ BBAppRater is swift 3 class for rating your app.
 
 ## Installation
 
-Just add BBRater folder to your app and you are done.
+Just add `BBAppRater` folder to your app and you are done.
 
 
 ## Usage
