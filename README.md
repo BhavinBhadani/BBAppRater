@@ -27,11 +27,13 @@ appRater.appId = "YOUR_APP_ID"
 appRater.requiredLaunchesBeforeRating = 7 // optional. default is 0
 ```
 
-Author
+## Author
 
-Bhavin Bhdanai
+Bhavin Bhdanai  
+
 contact me on skype: bhavin.bhadani
 
-License
+
+## License
 
 BBAppRater is available under the MIT license. See the LICENSE file for more info.
