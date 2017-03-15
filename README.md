@@ -4,7 +4,7 @@ BBAppRater is swift 3 class for rating your app.
 
 ![Alt][screenshot1]
 
-[screenshot1]:https://github.com/BhavinBhadani/BBAppRater/blob/master/BBAppRater.png
+[screenshot1]:https://github.com/BhavinBhadani/BBAppRater/blob/master/BBAppRaterSS.png
 
 ## Requirements
 
