@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // app rater
         let appRater = BBAppRater.sharedInstance
         appRater.appId = "YOUR_APP_ID"
-        appRater.requiredLaunchesBeforeRating = 0 //default is 0
+        appRater.requiredLaunchesBeforeRating = 7 //default is 0
         
         return true
     }
